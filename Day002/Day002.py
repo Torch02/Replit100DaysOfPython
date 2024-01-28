@@ -1,1 +1,11 @@
+userName = input("What is your name?: ")
+userQuest = input("What is your quest?: ")
+userAnswer = input("What is the capital of Assyria?: ")
 
+print("So")
+print(userName)
+print("said their quest is to")
+print(userQuest)
+print("and that")
+print(userAnswer)
+print("is the capital of Assyria")
