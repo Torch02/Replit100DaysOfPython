@@ -1,1 +1,10 @@
-
+print("Welcome to Stuart Smalley's Mirror")
+print("")
+name = input("What's your name?: ")
+print("")
+today = input("What is today's day of the week?: ")
+print("")
+goal = input("What's on top of your to-do list?: ")
+print("")
+print("")
+print("Good morning ", name, ". Happy ", today, ". You can totally ", goal)
